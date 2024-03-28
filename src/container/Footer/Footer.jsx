@@ -13,7 +13,7 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">21, kokumo street,Lagos, Nigeria</p>
+        <p className="p__opensans">21, kokumo street,Lagos, Nigeria.</p>
         <p className="p__opensans">+234 903-025-1590</p>
         <p className="p__opensans">+234 812-555-1230</p>
       </div>
